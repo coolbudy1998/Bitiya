@@ -1,5 +1,31 @@
 ## Pre Bitiya learning Status
 
+### Sept 25, 2018
+* [x] doing assignment that is given by Ram sir
+* [x] study about NLP.
+* [x] study and coding practice with numpy module.
+
+### Sept 24, 2018
+* [x] coding of writing dataframe of CSV file using pandas lib
+* [x] study about the concept of sklearn module.
+
+### Sept 23, 2018
+* [x] learning advance python like classes, list comprehension.
+* [x] coding using numpy lib.
+
+### Sept 22, 2018
+* [x] learning machine learning course from udacity
+* [x] coding using numpy libraries.
+
+### Sept 21, 2018
+* [x] learning machine learning course from udacity
+* [x] study about numpy libraries.
+
+### Sept 20, 2018
+* [x] learning from python developer course
+* [x] learning SVM topic from udacity
+* [x] study about linear regression
+
 ### Sept 19, 2018
 * [x] learning from python developer course
 * [x] Study about unsupervised learning
